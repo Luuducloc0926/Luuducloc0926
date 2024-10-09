@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Luuducloc
 ### 🛠️ Technologies and Tools
-![Your Banner Image](https://scontent.fsgn1-1.fna.fbcdn.net/v/t39.30808-6/427919408_906741947613892_1423316602513586742_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=4SZCjoxZ4yQQ7kNvgFjbvN9&_nc_ht=scontent.fsgn1-1.fna&_nc_gid=A8bs9G8CjRyHDaeyv0upkl5&oh=00_AYAMpXlpp9fCzsKRmkNFbGctWKTlcl4QdkKGsIRX2u1-yQ&oe=6703E148)
+
 ## Skill
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
